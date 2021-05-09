@@ -1,2 +1,2 @@
-# CS499
-CS-499 portfolio
+# CS-499 ePortfolio
+CS-499 Final Project
