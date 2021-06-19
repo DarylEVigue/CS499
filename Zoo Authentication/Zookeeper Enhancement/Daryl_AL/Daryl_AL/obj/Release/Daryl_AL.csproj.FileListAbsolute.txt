@@ -1,0 +1,12 @@
+C:\Users\tsimonetti\Desktop\Daryl\Daryl_AL\Daryl_AL\bin\Daryl_AL.dll.config
+C:\Users\tsimonetti\Desktop\Daryl\Daryl_AL\Daryl_AL\bin\Daryl_AL.dll
+C:\Users\tsimonetti\Desktop\Daryl\Daryl_AL\Daryl_AL\bin\Daryl_AL.pdb
+C:\Users\tsimonetti\Desktop\Daryl\Daryl_AL\Daryl_AL\obj\Release\Daryl_AL.dll
+C:\Users\tsimonetti\Desktop\Daryl\Daryl_AL\Daryl_AL\obj\Release\Daryl_AL.pdb
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_AL\Daryl_AL\bin\Daryl_AL.dll.config
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_AL\Daryl_AL\bin\Daryl_AL.dll
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_AL\Daryl_AL\bin\Daryl_AL.pdb
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_AL\Daryl_AL\obj\Release\Daryl_AL.csproj.AssemblyReference.cache
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_AL\Daryl_AL\obj\Release\Daryl_AL.csproj.CoreCompileInputs.cache
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_AL\Daryl_AL\obj\Release\Daryl_AL.dll
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_AL\Daryl_AL\obj\Release\Daryl_AL.pdb

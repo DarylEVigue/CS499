@@ -1,0 +1,75 @@
+C:\Users\tsimonetti\Desktop\Daryl\Daryl_PL\Daryl_PL\bin\roslyn\csc.exe
+C:\Users\tsimonetti\Desktop\Daryl\Daryl_PL\Daryl_PL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tsimonetti\Desktop\Daryl\Daryl_PL\Daryl_PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tsimonetti\Desktop\Daryl\Daryl_PL\Daryl_PL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tsimonetti\Desktop\Daryl\Daryl_PL\Daryl_PL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tsimonetti\Desktop\Daryl\Daryl_PL\Daryl_PL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tsimonetti\Desktop\Daryl\Daryl_PL\Daryl_PL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tsimonetti\Desktop\Daryl\Daryl_PL\Daryl_PL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tsimonetti\Desktop\Daryl\Daryl_PL\Daryl_PL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tsimonetti\Desktop\Daryl\Daryl_PL\Daryl_PL\bin\roslyn\vbc.exe
+C:\Users\tsimonetti\Desktop\Daryl\Daryl_PL\Daryl_PL\bin\roslyn\VBCSCompiler.exe
+C:\Users\tsimonetti\Desktop\Daryl\Daryl_PL\Daryl_PL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tsimonetti\Desktop\Daryl\Daryl_PL\Daryl_PL\bin\Daryl_PL.dll.config
+C:\Users\tsimonetti\Desktop\Daryl\Daryl_PL\Daryl_PL\bin\Daryl_PL.dll
+C:\Users\tsimonetti\Desktop\Daryl\Daryl_PL\Daryl_PL\bin\Daryl_PL.XmlSerializers.dll
+C:\Users\tsimonetti\Desktop\Daryl\Daryl_PL\Daryl_PL\bin\Daryl_PL.pdb
+C:\Users\tsimonetti\Desktop\Daryl\Daryl_PL\Daryl_PL\bin\Antlr3.Runtime.dll
+C:\Users\tsimonetti\Desktop\Daryl\Daryl_PL\Daryl_PL\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\tsimonetti\Desktop\Daryl\Daryl_PL\Daryl_PL\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\tsimonetti\Desktop\Daryl\Daryl_PL\Daryl_PL\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\tsimonetti\Desktop\Daryl\Daryl_PL\Daryl_PL\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\tsimonetti\Desktop\Daryl\Daryl_PL\Daryl_PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tsimonetti\Desktop\Daryl\Daryl_PL\Daryl_PL\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\tsimonetti\Desktop\Daryl\Daryl_PL\Daryl_PL\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\tsimonetti\Desktop\Daryl\Daryl_PL\Daryl_PL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tsimonetti\Desktop\Daryl\Daryl_PL\Daryl_PL\bin\Newtonsoft.Json.dll
+C:\Users\tsimonetti\Desktop\Daryl\Daryl_PL\Daryl_PL\bin\System.Web.Optimization.dll
+C:\Users\tsimonetti\Desktop\Daryl\Daryl_PL\Daryl_PL\bin\WebGrease.dll
+C:\Users\tsimonetti\Desktop\Daryl\Daryl_PL\Daryl_PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tsimonetti\Desktop\Daryl\Daryl_PL\Daryl_PL\bin\System.Web.Optimization.xml
+C:\Users\tsimonetti\Desktop\Daryl\Daryl_PL\Daryl_PL\bin\Antlr3.Runtime.pdb
+C:\Users\tsimonetti\Desktop\Daryl\Daryl_PL\Daryl_PL\bin\Newtonsoft.Json.xml
+C:\Users\tsimonetti\Desktop\Daryl\Daryl_PL\Daryl_PL\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\tsimonetti\Desktop\Daryl\Daryl_PL\Daryl_PL\obj\Release\Daryl_PL.dll
+C:\Users\tsimonetti\Desktop\Daryl\Daryl_PL\Daryl_PL\obj\Release\Daryl_PL.pdb
+C:\Users\tsimonetti\Desktop\Daryl\Daryl_PL\Daryl_PL\obj\Release\Daryl_PL.XmlSerializers.dll
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_PL\Daryl_PL\bin\roslyn\csc.exe
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_PL\Daryl_PL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_PL\Daryl_PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_PL\Daryl_PL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_PL\Daryl_PL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_PL\Daryl_PL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_PL\Daryl_PL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_PL\Daryl_PL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_PL\Daryl_PL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_PL\Daryl_PL\bin\roslyn\vbc.exe
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_PL\Daryl_PL\bin\roslyn\VBCSCompiler.exe
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_PL\Daryl_PL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_PL\Daryl_PL\bin\Daryl_PL.dll.config
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_PL\Daryl_PL\bin\Daryl_PL.dll
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_PL\Daryl_PL\bin\Daryl_PL.XmlSerializers.dll
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_PL\Daryl_PL\bin\Daryl_PL.pdb
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_PL\Daryl_PL\bin\Antlr3.Runtime.dll
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_PL\Daryl_PL\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_PL\Daryl_PL\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_PL\Daryl_PL\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_PL\Daryl_PL\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_PL\Daryl_PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_PL\Daryl_PL\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_PL\Daryl_PL\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_PL\Daryl_PL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_PL\Daryl_PL\bin\Newtonsoft.Json.dll
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_PL\Daryl_PL\bin\System.Web.Optimization.dll
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_PL\Daryl_PL\bin\WebGrease.dll
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_PL\Daryl_PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_PL\Daryl_PL\bin\System.Web.Optimization.xml
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_PL\Daryl_PL\bin\Antlr3.Runtime.pdb
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_PL\Daryl_PL\bin\Newtonsoft.Json.xml
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_PL\Daryl_PL\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_PL\Daryl_PL\obj\Release\Daryl_PL.csproj.CoreCompileInputs.cache
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_PL\Daryl_PL\obj\Release\Daryl_PL.csproj.CopyComplete
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_PL\Daryl_PL\obj\Release\Daryl_PL.dll
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_PL\Daryl_PL\obj\Release\Daryl_PL.pdb
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_PL\Daryl_PL\obj\Release\Daryl_PL.XmlSerializers.dll
+C:\Users\tsimonetti\Desktop\Daryl 2019\Daryl_PL\Daryl_PL\obj\Release\Daryl_PL.csproj.AssemblyReference.cache

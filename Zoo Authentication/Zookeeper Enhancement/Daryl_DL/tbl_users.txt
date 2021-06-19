@@ -1,0 +1,17 @@
+USE [Daryl_DB]
+GO
+
+/****** Object:  Table [dbo].[tbl_users]    Script Date: 6/16/2021 11:09:11 AM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[tbl_users](
+	[rec_id] [int] NULL,
+	[user_id] [nvarchar](50) NULL,
+	[user_password] [nvarchar](50) NULL
+) ON [PRIMARY]
+GO
+
