@@ -1,0 +1,7 @@
+USE [Daryl_DB]
+GO
+
+/****** Object:  User [Daryl_Project_User]    Script Date: 6/16/2021 11:11:59 AM ******/
+CREATE USER [Daryl_Project_User] FOR LOGIN [Daryl_Project_User] WITH DEFAULT_SCHEMA=[dbo]
+GO
+
