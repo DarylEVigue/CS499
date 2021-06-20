@@ -18,6 +18,8 @@ I have been working in the IT field for almost 25 years.  During this time, I ha
 
 -----
 
+# Project Introduction
+
 My CS-499 Cap Stone project needs to identify and enhance artifacts from the code I wrote during other classes.  The specific things I need to evaluate and enhance are
 1.	Software Design and Engineering
 2.	Algorithms and Data Structures
