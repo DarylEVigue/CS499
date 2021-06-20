@@ -10,12 +10,12 @@ As I continued to take classes, I had few other classes that I felt I knew quite
 I took CS-250 Software Development Lifecycle.  This expanded on my knowledge of the development lifecycle.  It helped me better understand the agile development process that I apply regularly at work nearly every week when dealing with code or with vendors that delivering applications to my company. 
 CS33 Computer graphics, CS340 Client server development, IT320 Network security.  I gained new knowledge from every class, some were easy, others I struggled but from everyone I took information and 
 I have been working in the IT field for almost 25 years.  During this time, I have developed my administration skills and have worked in code development using WISA (Windows, IIS, ASP, and MS SQL) for the last few years to assist my company in developing web-based application to help manage Bond investment, College Savings programs, and other financial applications. This has allowed me to understand many of the concepts with code development. I learned that while I know specific languages and it helps with conceptual understanding, many languages have specific items that need to be learned to perform well.
-----
+-----
 My CS-499 Cap Stone project needs to identify and enhance artifacts from the code I wrote during other classes.  The specific things I need to evaluate and enhance are
 1.	Software Design and Engineering
 2.	Algorithms and Data Structures
 3.	Databases
-----
+-----
 ##Software Design and Engineering
 
 The first artifact I selected to enhance is a very simple paint the wall console application.  It ran as a console and took multiple inputs and calculated the amount of paint needed to fully paint a wall based on the input measurements.  As it was initially intended to be a simple application, there was nothing written into the application to catch and parse any errors.  For example, it was only able to work with positive number.  It was unable to handle negative numbers, letters, or other characters.  When writing quality code, I learned that it was necessary to ensure you catch and write the ability to handle errors within the code to prevent it from crashing when it receives bad inputs.  I first added the ability to input an exit command allowing to application to close gracefully if the users request it.  As the application, asks for a variety of inputs, the system will check and reset if the inputs are not a positive number.  This showed my ability to identify potential issues and develop code that is not fragile and will survive bad inputs and still function. 
