@@ -1,6 +1,6 @@
 # CS-499 and my path to it
 
-#### I have spent three years working through the Bachelor of Science, Computer Science course at Southern New Hampshire University.  After high school, I joined the U.S. Army and spent eh next 14 years traveling the world, growing up and at times in combat.  For a very long time, I was not sure what my future would hold.  Much of the time, I viewed my career path more physical then mental.  
+I have spent three years working through the Bachelor of Science, Computer Science course at Southern New Hampshire University.  After high school, I joined the U.S. Army and spent eh next 14 years traveling the world, growing up and at times in combat.  For a very long time, I was not sure what my future would hold.  Much of the time, I viewed my career path more physical then mental.  
 
 As I progressed through the military, computers were becoming more and more prevalent in daily duties and jobs.  Thinking back to my high school years and having my first computer, a 50-pound monstrosity that ran simple DOS based programs and a dot matrix printer, I began to assist my units in expanding their computing capabilities.  I did this for nearly 5 years before I became disabled and medically completed my military career.
 
