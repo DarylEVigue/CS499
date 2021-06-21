@@ -22,6 +22,15 @@ I have been working in the IT field for almost 25 years.  During this time, I ha
 
 -----
 
+# Demo and Code Review
+
+https://youtu.be/WmrCKGq7oZA  New code demo
+
+https://youtu.be/X_n6GyyGoSE  Code Review
+
+----
+
+
 # Project Introduction and Enhancements
 
 For my CS-499 Cap Stone project, I need to identify and enhance artifacts from the code I wrote during earlier classes.  The specific things required than I need to evaluate and enhance are:
